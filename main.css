@@ -11,7 +11,7 @@ background: linear-gradient(to right, #E5E5BE, #003973);
 .card-table{
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
 
 #portfolio {
@@ -21,12 +21,10 @@ background: linear-gradient(to right, #E5E5BE, #003973);
 .card {
     display:inline-block;
     background-color: #eeeeee;
+    margin-bottom: 30px;
 }
 
 .jumbotron{
-    /*background: linear-gradient(to right, #FFFFFF, #c7e3ff); 
-    background: rgb(255,255,255);
-    background: linear-gradient(0deg, rgba(239,248,255,1) 0%, rgba(255,255,255,1) 47%, rgba(239,248,255,1) 100%); */
     background-color: #0093E9;
     background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
     
