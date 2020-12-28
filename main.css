@@ -1,0 +1,72 @@
+html, body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 60px;
+/*    background: #003973;
+background: -webkit-linear-gradient(to right, #E5E5BE, #003973);
+background: linear-gradient(to right, #E5E5BE, #003973); 
+    height: 100%;
+*/
+}
+
+.card-table{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 60px;
+}
+
+#portfolio {
+    margin-left: 10%;
+}
+
+.card {
+    display:inline-block;
+    background-color: #eeeeee;
+}
+
+.jumbotron{
+    /*background: linear-gradient(to right, #FFFFFF, #c7e3ff); 
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(239,248,255,1) 0%, rgba(255,255,255,1) 47%, rgba(239,248,255,1) 100%); */
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  /* hover effect */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* color for each brand */
+  
+  /* LinkedIn */
+  .fa-linkedin {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+.footer {
+    position: absolute;
+    margin-bottom: 0px;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+  }
+
