@@ -89,6 +89,10 @@ html {
   margin: 5px;
 }
 
+.card-img-top {
+  object-fit: cover;
+}
+
 .lead {
   position: absolute;
   bottom: 5px;
