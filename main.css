@@ -84,6 +84,7 @@ sup {
   width: 286px;
   height: 380px;
   border: 0px;
+  overflow: hidden;
 }
 
 .card:hover {
@@ -95,11 +96,12 @@ sup {
   height: 160px;
   display: flex;
   align-items: center;
-  margin: 5px;
+  /* margin: 5px; */
 }
 
 .card-img-top {
   object-fit: cover;
+  width: 100%;
 }
 
 .lead {
